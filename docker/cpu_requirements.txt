@@ -1,0 +1,4 @@
+torch
+sklearn
+pillow
+torchvision
